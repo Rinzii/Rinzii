@@ -2,7 +2,7 @@
 
 - [Dragon Archiver](https://github.com/WizWorksInc/DragonArchiver) <sub>2022+</sub><br /><sup>_A virtual world creation, management, and note taking tool for tabletop role playing games made in .Net._</sup>
 > </details>
-<sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
+<sub>_You can check out more of my gists [here](https://gist.github.com/Rinzii)._</sub>
 
 ## Game Jam Projects
 - [GMTK Game Jam 2022 - Casino](https://fatal7x.itch.io/gmtk2022-casino) <sub>2022</sub><br /><sub>_Casino is a game about addiction and the strangle hold it can have on your life. This game was made in 48 hours for the GMTK Game Jam with a team of 6 people._</sub>

@@ -1,3 +1,5 @@
+I take breaks from contributing from time to time to learn new topics on my own. So if you see a gap in my contribution timeline thats probally why. ^^
+
 ## Repositories
 
 - [Dragon Archiver](https://github.com/WizWorksInc/DragonArchiver) <sub>2022+</sub><br /><sup>_A virtual world creation, management, and note taking tool for tabletop role playing games made in .Net._</sup>

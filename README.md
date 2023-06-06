@@ -3,6 +3,7 @@ I take breaks from contributing from time to time to learn new topics on my own.
 ## Repositories
 
 - [Dragon Archiver](https://github.com/WizWorksInc/DragonArchiver) <sub>2022+</sub><br /><sup>_A virtual world creation, management, and note taking tool for tabletop role playing games made in .Net._</sup>
+- [Mim](https://github.com/Rinzii/Arkanum-Engine) <sub>2023+</sub><br /><sup>_A linear algebra math framework optimized for real time graphics programmed in modern C++._</sup>
 - [Arkanum Engine](https://github.com/Rinzii/Arkanum-Engine) <sub>2022+</sub><br /><sup>_A game engine made in c# for education purposes. Worked on in my spare time._</sup>
 > </details>
 <sub>_You can check out more of my gists [here](https://gist.github.com/Rinzii)._</sub>

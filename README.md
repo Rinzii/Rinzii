@@ -1,4 +1,4 @@
-I take breaks from contributing from time to time to learn new topics on my own. So if you see a gap in my contribution timeline thats probally why. ^^
+I take breaks from contributing from time to time to learn new topics on my own. So if you see a gap in my contribution timeline thats probably why. ^^
 
 ## Repositories
 

@@ -3,6 +3,7 @@ I take breaks from contributing from time to time to learn new topics on my own.
 ## Repositories
 
 - [ccmath](https://github.com/Rinzii/ccmath) <sub>2024+</sub><br /><sup>_A C++17 constexpr-Compatible cmath Library._</sup>
+- [CppToCsBridge](https://github.com/Rinzii/CppToCsBridge) <sub>2024+</sub><br /><sup>_Code generation tool that automatically generates bindings needed to allow for interop between C++ classes and C# code._</sup>
 - [Mim](https://github.com/Rinzii/Mim) <sub>2023+</sub><br /><sup>_A linear algebra math framework optimized for real time graphics programmed in modern C++._</sup>
 - [Genesis Engine](https://github.com/Rinzii/Genesis) <sub>2023+</sub><br /><sup>_A vulkan game engine made with modern C++. Worked on in my spare time._</sup>
 - [Dragon Archiver](https://github.com/WizWorksInc/DragonArchiver) <sub>2022+</sub><br /><sup>_A virtual world creation, management, and note taking tool for tabletop role playing games made in .Net._</sup>
